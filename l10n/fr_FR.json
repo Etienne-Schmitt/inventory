@@ -1,0 +1,8 @@
+{ "translations": {
+    "Inventory" : "Inventar",
+    "places" : "Orte",
+    "Places" : "Orte",
+    "Items" : "Objekte",
+  	"Description" : "Beschreibung"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
